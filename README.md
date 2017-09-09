@@ -1,3 +1,3 @@
 # hello-world
 
-hi,i am komorebiq!
+Hi, I am komorebiq!
